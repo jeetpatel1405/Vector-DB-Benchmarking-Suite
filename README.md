@@ -1,9 +1,6 @@
-# Vector DB Benchmark for Music Semantic Search
+# Vector DB Benchmark for Semantic Search
 
-> **This project is part of the Vector Database Benchmarking video:**
-> [https://youtu.be/X0PwwfcGSHU](https://youtu.be/X0PwwfcGSHU)
 
-This repository benchmarks multiple vector databases for music semantic search, using a shared dataset and query set. It provides both a CLI benchmarking tool and a web UI for side-by-side DB comparison.
 
 ## Features
 
